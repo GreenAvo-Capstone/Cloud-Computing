@@ -14,5 +14,5 @@
 
 ## <H2> Cloud Architectures </H2>
 <p align="center">
-<img width="300" src="https://github.com/GreenAvo-Capstone/Cloud-Computing/assets/114552797/e6f07319-a5e2-47c9-b14f-5cbeb888f411">
+<img width="1000" src="https://github.com/GreenAvo-Capstone/Cloud-Computing/assets/114552797/e6f07319-a5e2-47c9-b14f-5cbeb888f411">
 </p>
