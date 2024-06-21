@@ -12,4 +12,4 @@
 * C364D4KY0946 - [Fransiskus Aurelio Hamdani](https://www.linkedin.com/in/fransiskus-aurelio-hamdani-066802179/)
 * C390D4KY1096 - [Dodi Dores Pane](https://www.linkedin.com/in/dodi-dores-pane-936365270/)
 
-## <H2> Implemented Technologies </H2>
+## <H2> CLoud Architectures </H2>
